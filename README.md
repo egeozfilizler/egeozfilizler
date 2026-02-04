@@ -1,6 +1,6 @@
 # Hi, I'm Ege Özfilizler! 👋
 
-I am a **Software Engineering Student** experienced in end-to-end development across Web, AI/ML, automations and IoT. I am committed to engineering excellence and continuous learning.
+I am a **Software Engineering Student** experienced in end-to-end development across Web, AI/ML, and IoT. I am committed to engineering excellence and continuous learning.
 
 ### 🚀 Professional Experience
 
@@ -38,17 +38,16 @@ I am a **Software Engineering Student** experienced in end-to-end development ac
 * 📡 **Disaster Communication Network (AAIA):** Engineered a novel **'star-in-star'** offline disaster network using **Raspberry Pi, Jetson Nano, and WebSockets**.
 * 🗺️ **Campus Map & Availability App:** Developing a real-time navigation app to check classroom availability using **Three.js** and **Next.js**.
 * 📅 **Loop Calendar:** Designed and developed a university scheduling app for team management using **React, Firebase, and MongoDB**.
-* 🏠 **Real Estate Price Prediction:** Created a regression model with **Python & Scikit-learn** to detect housing price anomalies in Istanbul with 85% accuracy.
+* 🏠 **Real Estate Price Prediction:** Created a regression model with **Python & Scikit-learn** to detect housing price anomalies in Istanbul with 75% accuracy.
 * 🔔 **Grade Notification Automation:** Built an automation system using **Python & Selenium** to monitor grade updates and send email notifications.
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egeozfilizler&show_icons=true&theme=radical" height="180" alt="Ege's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeozfilizler&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
+![Ege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeozfilizler&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egeozfilizler&layout=compact&theme=radical)
 
 ---
 
